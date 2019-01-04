@@ -3,4 +3,37 @@
 
 #Orthofinder 
 /home/skynet/tools/OrthoFinder-2.3.1/orthofinder -f ./Orthofinder/ -S diamond
-/home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Orthogroups/Orthogroups.tsv
+    Writing results files
+      =====================
+      2019-01-03 16:07:44 : Done orthologues
+      Orthogroups have been written to tab-delimited files:
+         /home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Orthogroups/Orthogroups.tsv
+         /home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Orthogroups/Orthogroups.txt (OrthoMCL format)
+         /home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Orthogroups/Orthogroups_UnassignedGenes.tsv
+      Sequences for orthogroups:
+         /home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Orthogroup_Sequences/
+
+
+      Gene trees:
+         /home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Gene_Trees/
+
+      Rooted species tree:
+         /home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Species_Tree/SpeciesTree_rooted.txt
+
+      Species-by-species orthologues directory:
+         /home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Orthologues/
+
+      Orthogroup statistics:
+         Statistics_PerSpecies.tsv   Statistics_Overall.tsv   Orthogroups_SpeciesOverlaps.tsv
+
+      OrthoFinder assigned 30 genes (0.1% of total) to 9 orthogroups. Fifty percent of all genes were in orthogroups with 1 or more genes (G50 was 1) and were contained in the largest 28279 orthogroups (O50 was 28279). There were 9 orthogroups with all species present and 4 of these consisted entirely of single-copy genes.
+
+      CITATION:
+       When publishing work that uses OrthoFinder please cite:
+       Emms D.M. & Kelly S. (2015), Genome Biology 16:157
+
+       If you use the species tree in your work then please also cite:
+       Emms D.M. & Kelly S. (2017), MBE 34(12): 3267-3278
+       Emms D.M. & Kelly S. (2018), bioRxiv https://doi.org/10.1101/267914
+cd ..
+
