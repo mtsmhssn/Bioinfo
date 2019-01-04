@@ -1,0 +1,6 @@
+#transdecoder 
+/home/skynet/tools/TransDecoder-TransDecoder-v5.3.0/TransDecoder.LongOrfs -t ./Gb.cds.fa
+
+#Orthofinder 
+/home/skynet/tools/OrthoFinder-2.3.1/orthofinder -f ./Orthofinder/ -S diamond
+/home/skynet/results/GingkoFinal/Orthofinder/OrthoFinder/Results_Jan03/Orthogroups/Orthogroups.tsv
