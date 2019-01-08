@@ -1,0 +1,36 @@
+#Data Filtering 
+Q20, Q30 and GC content were calculated
+
+#Functional Annotation 
+  highest similarity in the following databases
+    NR
+      cut off e value of 13-5
+      non-redundant protein sequences
+    COG 
+      Clusters of Orthologous Groups of proteins
+      https://github.com/jhcepas/eggnog-mapper
+      https://bioconda.github.io/recipes/eggnog-mapper/README.html
+      https://github.com/jhcepas/eggnog-mapper/wiki/Results-Interpretation
+    KO 
+      KEGG Orthology database
+      https://www.kegg.jp/blastkoala/
+    GO 
+      Gene Ontology
+      [Blast2GO]
+      revigo    
+      
+#Differential expression analysis and functional enrichment analysis
+  The P values were adjusted using the Benjamini & Hochberg method
+  GO and KEGG pathway enrichment analysis 
+    TBtools 
+    
+#Data
+  % of signficantly similar to species 
+  % og GO domains breakdowns 
+  
+#Differentially expressed genes (DEGs) 
+  
+  
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208771
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4811964/
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183428
